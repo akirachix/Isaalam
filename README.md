@@ -1,6 +1,6 @@
-##Smart whistle
+# project name: Smart whistle
 
-##About 
+# About 
 
 The Isalaam team is working on Gender-based violence a situation deeply rooted in gender inequality and continues to be one of the most notable human rights violations within all societies. 
 
